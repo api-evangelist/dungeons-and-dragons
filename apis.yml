@@ -1,0 +1,32 @@
+aid: dungeons-and-dragons
+name: Dungeons and Dragons
+description: "Reference for 5th edition spells, classes, monsters, and more"
+url: https://www.dnd5eapi.co/docs/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Dungeons and Dragons
+    description: "Reference for 5th edition spells, classes, monsters, and more"
+    humanURL: https://www.dnd5eapi.co/docs/
+    baseURL: https://www.dnd5eapi.co/docs/
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://www.dnd5eapi.co/docs/
+common:
+  - type: Website
+    url: https://www.dnd5eapi.co/docs/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
