@@ -35,13 +35,13 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Tabletop Games
 apis:
   - name: Dungeons and Dragons
     description: "Reference for 5th edition spells, classes, monsters, and more"
     humanURL: https://www.dnd5eapi.co/docs/
-    baseURL: https://www.dnd5eapi.co/docs/
     tags:
       - Games And Comics
     properties:
@@ -57,3 +57,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
