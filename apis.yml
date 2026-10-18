@@ -42,7 +42,8 @@ apis:
   - name: Dungeons and Dragons
     description: "Reference for 5th edition spells, classes, monsters, and more"
     humanURL: https://www.dnd5eapi.co/docs/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
